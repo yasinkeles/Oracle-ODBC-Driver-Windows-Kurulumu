@@ -32,7 +32,7 @@ Sürücüler sekmesi altında **"instantclient_xx_xx"** in yğklenmiş olduğunu
 
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_5.png)
 
-Sıradaki işlemimiz sunucu bilgilerimiz ile bir dsn oluşturmak, bilgileri girelim ve **"TEST"** e basalım, aşağıdaki gibi bir bilgi mesajı ekrana gelmeli
+Sıradaki işlemimiz sunucu bilgilerimiz ile bir dsn oluşturmak, bilgileri girelim ve **"TEST CONNECTION"** e basalım, aşağıdaki gibi bir bilgi mesajı ekrana gelmeli
 
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_6.png)
 
