@@ -2,7 +2,7 @@
 Oracle ODBC Driver Windows Kurulum adımları
 
 https://www.oracle.com/tr/database/technologies/instant-client/winx64-64-downloads.html adresinden **"Basic Package"** ve **"ODBC Package"** zip dosyalarını indirip
-**"C:\oracle\instantclient_xx_xx"** konumuna çıkar *(xx_xx sürüm numarasıdır)*
+**"C:\oracle\instantclient_xx_xx"** konumuna çıkaralım *(xx_xx sürüm numarasıdır)*
 
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows.png)
 
@@ -16,15 +16,15 @@ odbc_install.exe
 
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_2.png)
 
-**"oracle odbc driver is installed successfully"** ibaresini görmeliyiz, eğer bu ibareyi göremezseniz **"basic"** ve **"odbc"** zip dosyalarını kontrol edebilirsiniz.
+**"oracle odbc driver is installed successfully"** ibaresini görmeliyiz, eğer bu ibareyi göremezseniz **"basic"** ve **"odbc"** zip dosyalarını kontrol edebilirsiniz
 
-Sıradki işlemimiz ortam değişkenlerini ayarlamak olacaktır, ortam değişkenlerini aşağıdaki görseldeki gibi ayarlamalıyız. (başlata ortam değişkenleri yazarak ilgili ekranı açabilirsiniz)
+Sıradki işlemimiz ortam değişkenlerini ayarlamak olacaktır, ortam değişkenlerini aşağıdaki görseldeki gibi ayarlamalıyız (başlata ortam değişkenleri yazarak ilgili ekranı açabilirsiniz)
 
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_3.png)
 
 Bu işlemide tamamladıktan sonra başlata **"ODBC Veri Kaynakları (64-bit)"** yazarak ekrana gelecek programı açalım
 
-Sürücüler sekmesi altında **"instantclient_xx_xx"** in yğklenmiş olduğunu kontrol edelim
+Sürücüler sekmesi altında **"instantclient_xx_xx"** in yüklenmiş olduğunu kontrol edelim
 
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_4.png)
 
