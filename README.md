@@ -52,8 +52,5 @@ Con.Open (strCon)
 NLS_LANG
 AMERICAN_TURKEY.WE8ISO8859P9
 ```
-![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_7.jpg)
-![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_8.jpg)
-![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_9.jpg)
-
+![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_7.png)
 
