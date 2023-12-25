@@ -46,3 +46,14 @@ Con.Open (strCon)
 ```
 
 **"DSN" alanına yazdığımız isimle connecting stringde yer alan DSN ismi aynı olmalıdır**
+
+**Sorgularda Türkçe karakter sorunu yaşayanlar aşağıdaki düzeltmeyi de yapabilirler**
+```
+NLS_LANG
+AMERICAN_TURKEY.WE8ISO8859P9
+```
+![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_7.png)
+![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_8.png)
+![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_9.png)
+
+
