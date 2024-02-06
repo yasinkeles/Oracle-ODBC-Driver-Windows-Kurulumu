@@ -29,6 +29,7 @@ Sürücüler sekmesi altında **"instantclient_xx_xx"** in yüklenmiş olduğunu
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_4.png)
 
 Şimdi **"SISTEM DSN"** sekmesi altından **"EKLE"** butonuna basarak **"instantclient_xx_xx"** i bulup **"SON"** a tıklayalım
+(Eğer **"oracle odbc error 126 sqoras32 dll"** hatası alırsanız https://dosya.co/53ryept2kobp/Visual-C-Runtimes-All-in-One-YK.rar.html adresinden Visual-C-Runtimes paketini indirip zipten çıkardıktan sonra **"install_all"** a tıklayarak tümünü kurulalım)
 
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_5.png)
 
@@ -53,4 +54,6 @@ NLS_LANG
 AMERICAN_TURKEY.WE8ISO8859P9
 ```
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_7.png)
+
+**kurulumda yer alan öğeler internetten indirilebildiği için indirilen kaynak tarafından eklenmiş olabilecek zararlı yazılımlara karşı dikkatli olun**
 
