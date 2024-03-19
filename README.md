@@ -1,6 +1,10 @@
 # Oracle-ODBC-Driver-Windows-Kurulumu
 Oracle ODBC Driver Windows Kurulum adımları
 
+Öncelikle **"oracle odbc error 126 sqoras32 dll"** hatası almamak için https://dosya.co/53ryept2kobp/Visual-C-Runtimes-All-in-One-YK.rar.html adresinden Visual-C-Runtimes paketini indirip zipten çıkardıktan sonra **"install_all"** dosyasını yönetici olarak çalıştıralım ve kurulumun bitmesini bekleyelim
+
+![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_5.png)
+
 https://www.oracle.com/tr/database/technologies/instant-client/winx64-64-downloads.html adresinden **"Basic Package"** ve **"ODBC Package"** zip dosyalarını indirip
 **"C:\oracle\instantclient_xx_xx"** konumuna çıkaralım *(xx_xx sürüm numarasıdır)*
 
@@ -29,9 +33,6 @@ Sürücüler sekmesi altında **"instantclient_xx_xx"** in yüklenmiş olduğunu
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_4.png)
 
 Şimdi **"SISTEM DSN"** sekmesi altından **"EKLE"** butonuna basarak **"instantclient_xx_xx"** i bulup **"SON"** a tıklayalım
-(Eğer **"oracle odbc error 126 sqoras32 dll"** hatası alırsanız https://dosya.co/53ryept2kobp/Visual-C-Runtimes-All-in-One-YK.rar.html adresinden Visual-C-Runtimes paketini indirip zipten çıkardıktan sonra **"install_all"** a tıklayarak tümünü kurulalım)
-
-![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_5.png)
 
 Sıradaki işlemimiz sunucu bilgilerimiz ile bir dsn oluşturmak, bilgileri girelim ve **"TEST CONNECTION"** e basalım, aşağıdaki gibi bir bilgi mesajı ekrana gelmeli
 
