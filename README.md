@@ -8,7 +8,7 @@ https://www.oracle.com/tr/database/technologies/instant-client/winx64-64-downloa
 
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows.png)
 
-**Komut satırını (cmd)** yönetici olarak çalıştırıp sırasıyla aşağıdaki komutları giriyoruz
+Kurulum bittikten sonra **Komut satırını (cmd)** yönetici olarak çalıştırıp sırasıyla aşağıdaki komutları giriyoruz
 ```
 cd C:\oracle\instantclient_xx_xx
 ```
