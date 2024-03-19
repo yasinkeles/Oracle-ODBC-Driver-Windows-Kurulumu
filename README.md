@@ -1,7 +1,7 @@
 # Oracle-ODBC-Driver-Windows-Kurulumu
 Oracle ODBC Driver Windows Kurulum adımları
 
-Öncelikle **"oracle odbc error 126 sqoras32 dll"** hatası almamak için https://dosya.co/53ryept2kobp/Visual-C-Runtimes-All-in-One-YK.rar.html adresinden Visual-C-Runtimes paketini indirip zipten çıkardıktan sonra **"install_all"** dosyasını yönetici olarak çalıştıralım ve kurulumun bitmesini bekleyelim
+Öncelikle **"oracle odbc error 126 sqoras32 dll"** hatası almamak için https://dosya.co/53ryept2kobp/Visual-C-Runtimes-All-in-One-YK.rar.html adresinden Visual-C-Runtimes paketini indirip zipten çıkardıktan sonra **"install_all"** dosyasını yönetici olarak çalıştıralım ve kurulumun bitmesini bekleyelim.
 
 https://www.oracle.com/tr/database/technologies/instant-client/winx64-64-downloads.html adresinden **"Basic Package"** ve **"ODBC Package"** zip dosyalarını indirip
 **"C:\oracle\instantclient_xx_xx"** konumuna çıkaralım *(xx_xx sürüm numarasıdır)*
