@@ -57,5 +57,5 @@ NLS_LANG
 ```
 AMERICAN_TURKEY.WE8ISO8859P9
 ```
-**kurulumda yer alan öğeler internetten indirilebildiği için indirilen kaynak tarafından eklenmiş olabilecek zararlı yazılımlara karşı dikkatli olun**
+**Kurulumda yer alan öğeler internetten indirilebildiği için indirilen kaynak tarafından eklenmiş olabilecek zararlı yazılımlara karşı dikkatli olun.**
 
