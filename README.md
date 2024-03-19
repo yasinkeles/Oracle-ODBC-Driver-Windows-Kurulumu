@@ -46,7 +46,7 @@ strCon = "DSN=ODBS; " & _
 Con.Open (strCon)
 ```
 
-**"DSN" alanına yazdığımız isimle connecting stringde yer alan DSN ismi aynı olmalıdır**
+"DSN" alanına yazdığımız isimle connecting stringde yer alan DSN ismi aynı olmalıdır
 
 **Sorgularda Türkçe karakter sorunu yaşayanlar aşağıdaki düzeltmeyi de yapabilirler**
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_7.png)
