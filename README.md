@@ -38,7 +38,7 @@ Sıradaki işlemimiz sunucu bilgilerimiz ile bir dsn oluşturmak, bilgileri gire
 
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_6.png)
 
-Artık ODBC kurulumumuz ve sunucu bağlantımız hazır, aşağıdaki gibi bir connecting string (VBA) ile driverimizi kullanabiliriz
+Artık ODBC kurulumumuz ve sunucu bağlantımız hazır, aşağıdaki gibi bir connecting string (VBA) ile driverimizi kullanabiliriz (Sistem DSN hatası alırsanız ofis sürümünüzü kontrol ediniz, yalnızca 64 bit ofis programları ile çalışır)
 
 ```
 strCon = "DSN=ODBS; " & _
