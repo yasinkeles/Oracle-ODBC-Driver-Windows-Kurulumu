@@ -49,7 +49,7 @@ Con.Open (strCon)
 
 "DSN" alanına yazdığımız isimle connecting stringde yer alan DSN ismi aynı olmalıdır
 
-**Sorgularda Türkçe karakter sorunu yaşayanlar aşağıdaki düzeltmeyi de yapabilirler**
+**Sorgularda Türkçe veya farklı bir dilde karakter sorunu yaşayanlar aşağıdaki düzeltmeyi de yapabilirler**
 Bu ayar yapıldıktan sonra bilgisayarı yeniden başlatmalısınız.
 
 ![instantclient_xx_xx](https://github.com/yasinkeles/Oracle-ODBC-Driver-Windows-Kurulumu/blob/main/1_odbc_windows_7.png)
@@ -58,6 +58,10 @@ NLS_LANG
 ```
 ```
 AMERICAN_TURKEY.WE8ISO8859P9
+veya
+TURKISH_TURKEY.WE8ISO8859P9 
+veya
+https://www.sdcc.bnl.gov/phobos/Detectors/Computing/Orant/doc/database.804/a55928/ape.htm adresinden uygun olanı seçebilirsiniz
 ```
 **Kurulumda yer alan öğeler internetten indirilebildiği için indirilen kaynak tarafından eklenmiş olabilecek zararlı yazılımlara karşı dikkatli olun.**
 
